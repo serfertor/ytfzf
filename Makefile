@@ -1,4 +1,4 @@
-PROG=5
+PROG=6
 PREFIX=/usr/local
 BINDIR=${PREFIX}/bin
 DOCDIR=${PREFIX}/share/doc/ytfzf
