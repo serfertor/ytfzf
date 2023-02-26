@@ -1,4 +1,5 @@
-PROG=6
+PROG=3
+>>>>>>> branch1
 PREFIX=/usr/local
 BINDIR=${PREFIX}/bin
 DOCDIR=${PREFIX}/share/doc/ytfzf
